@@ -1,4 +1,0 @@
-/Users/ecssiah/Development/justsky/livecompile/build/CMakeFiles/app.dir
-/Users/ecssiah/Development/justsky/livecompile/build/CMakeFiles/game.dir
-/Users/ecssiah/Development/justsky/livecompile/build/CMakeFiles/edit_cache.dir
-/Users/ecssiah/Development/justsky/livecompile/build/CMakeFiles/rebuild_cache.dir
